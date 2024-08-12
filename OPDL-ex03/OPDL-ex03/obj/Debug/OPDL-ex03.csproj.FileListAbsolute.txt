@@ -1,0 +1,7 @@
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\bin\Debug\OPDL-ex03.exe.config
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\bin\Debug\OPDL-ex03.exe
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\bin\Debug\OPDL-ex03.pdb
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\obj\Debug\OPDL-ex03.csproj.AssemblyReference.cache
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\obj\Debug\OPDL-ex03.csproj.CoreCompileInputs.cache
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\obj\Debug\OPDL-ex03.exe
+C:\Users\lima\source\repos\OPDL-ex03\OPDL-ex03\obj\Debug\OPDL-ex03.pdb
